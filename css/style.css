@@ -1,8 +1,7 @@
 body {
   font-size: 16px;
   font-family: arial, sans-serif;
-  background-color: FloralWhite;
-  color: #000000;
+  background-color: White;
 }
 
 nav {
@@ -24,9 +23,9 @@ h1 {
 h3 {
   font-size: 1.2em;
   font-weight: 300;
-  line-height: 1.2em;
+  line-height: 1.4em;
   margin-top: 30px;
-  color: #FF6347;
+  color: #D63F0F;
 }
 
 p {
@@ -34,9 +33,9 @@ p {
 }
 
 a {
-  color: Midnightblue;
   font-weight: 600;
   text-decoration: none;
+  color: #fff;
 }
 
 .logo {
@@ -57,7 +56,6 @@ figcaption {
   font-size: .8em;
   font-weight: 100;
   width: 40%;
-  text-align: right;
 }
 
 .left, .right {
@@ -85,7 +83,7 @@ article {
 
 .container {
   margin: 0 auto;
-  width: 50%;
+  width: 60%;
 }
 
 .author {
@@ -96,7 +94,8 @@ article {
 }
 
 .story-text {
+  font-size: 1.1em;
   margin-top: 60px;
   margin-bottom: 150px;
-  line-height: 1.4em;
+  line-height: 1.5em;
 }
